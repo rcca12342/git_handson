@@ -1,0 +1,21 @@
+{ "DATA": [
+    {
+        "imię": "Kocurek",
+        "gatunek": "Kot",
+        "waga": 1,
+        "wiek": 0.5
+    },
+    {
+        "imię": "Szarik",
+        "gatunek": "Pies",
+        "waga": 30,
+        "wiek": 2
+    },
+    {
+        "imię": "Szczerbatek",
+        "gatunek": "Smok",
+        "waga": 1000,
+        "wiek": 5
+    }
+]
+}
