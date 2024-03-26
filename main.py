@@ -1,5 +1,5 @@
-import json
 print("Git_handson")
+import json
 
 DATA = [
     {
