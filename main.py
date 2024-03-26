@@ -1,4 +1,6 @@
+import json
 print("Git_handson")
+
 DATA = [
     {
         "imię": "Burek",
@@ -17,4 +19,11 @@ DATA = [
 def display(data):
     print(data)
    
+f = open("data.json")
+DATA = json.load(f)
+
+f2 = open("data2.json")
+DATA2 = json.load(f2)
+
+DATA.extend(DATA2)
 display(DATA)
