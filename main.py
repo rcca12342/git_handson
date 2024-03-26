@@ -1,1 +1,1 @@
-#Komentarz
+print("Git handson")
